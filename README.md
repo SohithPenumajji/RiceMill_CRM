@@ -1,0 +1,1 @@
+The objective of the project is to streamline the operations by daily sales tracking and generating automated reports. This helped the mill owner to gain better insights about sales performance and managing supplier interactions efficiently.
